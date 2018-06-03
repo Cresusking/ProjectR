@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.cresu.projectr.activities.CreateCarteActivity">
+
+    <EditText
+        android:id="@+id/text_to_enc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_enc"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="ENCRYPT" />
+
+    <TextView
+        android:id="@+id/text_encrypted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_20"
+        android:layout_marginTop="30dp" />
+
+    <Button
+        android:id="@+id/btn_dec"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:text="DECRYPT" />
+
+    <TextView
+        android:id="@+id/text_decrypted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_20"
+        android:layout_marginTop="30dp" />
+
+</LinearLayout>

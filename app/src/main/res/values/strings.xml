@@ -1,0 +1,39 @@
+<resources>
+    <!-- Connexion Page -->
+    <string name="label_id">Entrez votre pseudo ici</string>
+    <string name="label_password">Entrez votre mot de passe ici</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="btn_inscription">Inscription</string>
+
+    <!-- Inscription Page -->
+    <string name="label_pseudo">Entrez votre Pseudo ici</string>
+    <string name="label_telephone">Entrez votre numero de telephone</string>
+    <string name="label_paiement">Entrez votre numero de paiement</string>
+    <string name="label_pays">Pays</string>
+    <string name="label_ville">Ville</string>
+    <string name="label_quartier">Quartier</string>
+
+    <!-- Paramètres de compte Page-->
+    <string name="false_num">00\t00\t00\t00\t00</string>
+    <string name="btn_valider">Valider</string>
+
+
+    <string name="app_name">E-Yam</string>
+    <string name="main_bar_title">Transfert en toute sécurité</string>
+
+    <string name="quantite">Quantité voulue</string>
+    <string name="pick_picture">Selected a picture in your gallery</string>
+
+    <string name="ajouter_une_categorie_aliment">Ajouter une Catégorie d\'Aliment</string>
+    <string name="ajouter_un_aliment">Ajouter un Aliment</string>
+    <string name="historique">Historique</string>
+    <string name="chat">Chat</string>
+    <string name="parametre_de_compte">Mon compte</string>
+    <string name="deconnexion">Déconnexion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Achat -->
+    <string name="msg_confirmation">Confirmez vous que vous voulez bien effectuer cette opération ?</string>
+</resources>
